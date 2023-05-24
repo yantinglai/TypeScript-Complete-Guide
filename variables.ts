@@ -38,3 +38,6 @@ console.log(coordinates);
 // 2.declare not the same time
 // 3.a variable has a type that cannot be inferred
 let numberAboveZero: boolean | number;
+
+// Documentation:
+// TypeScript is JavaScript’s runtime with a compile-time type checker.
